@@ -15,7 +15,7 @@ Experiencia Laboral:
 * Service Tecnico de Computadores Personales
 
 Idiomas:
-*Espanol Nativo
-*Ingles nivel A2
-*Aleman 
+* Espanol Nativo
+* Ingles nivel A2
+* Aleman 
 
