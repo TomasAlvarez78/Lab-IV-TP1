@@ -26,3 +26,8 @@ Imagenes:
 ##5 - Merge Request
 
 ![MergeRequest](https://user-images.githubusercontent.com/67231208/113497372-d78ba780-94d9-11eb-857e-7453a94089df.png)
+
+##6 - Error Push
+
+![PushError](https://user-images.githubusercontent.com/67231208/113518289-c1bec680-955b-11eb-986e-669338207d04.png)
+
