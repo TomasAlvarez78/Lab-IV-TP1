@@ -2,7 +2,7 @@ Mi nombre es Tomas Ignacio Alvarez
 
 Este CV es para fines academicos y es falso.
 
-Link al CV: https://github.com/TomasAlvarez78/Lab-IV-TP1/blob/alter/CV.md
+Link al CV: https://github.com/TomasAlvarez78/Lab-IV-TP1/blob/main/CV.md
 
 Imagenes:
 ##1 - Git Local 
@@ -21,3 +21,6 @@ Imagenes:
 
 ![UploadAlter](https://user-images.githubusercontent.com/67231208/113497305-2a189400-94d9-11eb-8c13-00903c37e652.png)
 
+##5 - Merge Request
+
+![MergeRequest](https://user-images.githubusercontent.com/67231208/113497372-d78ba780-94d9-11eb-857e-7453a94089df.png)
