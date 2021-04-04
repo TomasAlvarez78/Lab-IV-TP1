@@ -1,0 +1,1 @@
+Un pull request, segun informacion buscada es una peticion de un usuario externo hacia el usuario perteneciente de un repositorio, el cual la peticion es un fork, el objetivo de este es para incorporar el commit del usuario externo, la decision de incorporarlo lo tendra el usuario perteneciante del repo.
